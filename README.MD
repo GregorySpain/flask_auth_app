@@ -1,7 +1,7 @@
 # Flask Auth App
-###Author: Gregory Spain
+### Author: Gregory Spain
 ### May 7, 2023
-###WDD 350 Python for Web Development Clark State
+### WDD 350 Python for Web Development Clark State
 
 ## Dependencies:
 1. flask
